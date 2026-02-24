@@ -8,7 +8,7 @@ I’m a beginner backend developer currently building my foundation in programmi
 - Web architecture (DNS, web servers, application servers, databases)
 - Linux command line fundamentals
 - Git branching, commits, and pull requests
-- Python programming basics
+- Python programming
 
 ## Tools
 - Python
